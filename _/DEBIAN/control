@@ -1,0 +1,10 @@
+Package: com.cbcoding.inaminute
+Name: In A Minute
+Depends: mobilesubstrate
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Description: Fine-grained time selection from date pickers.
+Maintainer: Brandon Sachs
+Author: Brandon Sachs
+Section: Tweaks
+Installed-Size: 20
